@@ -105,9 +105,18 @@ header button:hover {
     background-color: #18181B;
     width: 374px;
     border-radius: 16px;
-    color: white;
     padding: 24px;
 }
 
-.dialog-day 
+.dialog-day header {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 8px;
+    color: white;
+}
 
+.dialog-day #small-text{
+    color:#A1A1AA;
+}
