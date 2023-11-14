@@ -97,7 +97,7 @@ header button:hover {
 }
 
 .violet-90{
-  background-color: #4C1D95;
+    background-color: #4C1D95;
     border-color: #7c3aed;
 }
 
@@ -119,4 +119,18 @@ header button:hover {
 
 .dialog-day #small-text{
     color:#A1A1AA;
+}
+
+.progress-bar {
+    height: 12px;
+    background-color: #3F3F46;
+    border-radius: 12px;
+    margin-top: 16px;
+}
+
+.progress {
+    height: 12px;
+    width: 75%;
+    background-color: #7C3AED;
+    border-radius: 12px;
 }
