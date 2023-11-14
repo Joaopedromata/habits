@@ -101,5 +101,12 @@ header button:hover {
     border-color: #7c3aed;
 }
 
+.dialog-day {
+    background-color: #18181B;
+    width: 374px;
+    border-radius: 16px;
+    color: white;
+}
+
 
 
